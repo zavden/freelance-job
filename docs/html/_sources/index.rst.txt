@@ -20,7 +20,7 @@ I am rendering my services in these two types of jobs:
    /jobs/tutorials.rst
    :maxdepth: 1
 
-Other lighes of interest
+Useful links:
 
 .. toctree::
    /jobs/donations.rst

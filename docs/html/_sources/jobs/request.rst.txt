@@ -23,7 +23,7 @@ Animations on request
 
     f) :underline:`Estimated price`: If you have doubts about how much I would charge you to make an animation, you can see some examples :ref:`here<examples>`.
 
-3. Payment method: If the cost that I estimate of the work **costs less** than 150 USD (for the US and Europe, 100 USD for the rest of the world) then half will be paid in advance, if it costs more than that amount, it will only be paid the 3rd part, and half the work the second third part will be paid. All payments are made by PayPal or bank transfer.
+3. :underbold:`Payment method:` If the agreed price is **less than 150 USD** (for the US and Europe, 100 USD for the rest of the world) then half will be paid in advance, if it costs more than that amount, it will only be paid the 3rd part, and half the work the second third part will be paid. All payments are made by PayPal or bank transfer.
 4. You have to send me the **details of the projects**, anything that helps clarify your ideas, some examples are:
 
     * Sketches.
