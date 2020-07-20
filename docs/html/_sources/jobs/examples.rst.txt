@@ -10,7 +10,7 @@ The prices shown here are decided for a client who lives in US or in a country o
 """""""""
 
 Justification:
-        Animation is relatively complex, because there are a lot of updaters.
+        This animation is relatively complex, because there are a lot of updaters.
 
 .. raw:: html
 

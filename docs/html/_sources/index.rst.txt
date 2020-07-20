@@ -18,6 +18,11 @@ I am rendering my services in these two types of jobs:
 .. toctree::
    /jobs/request.rst
    /jobs/tutorials.rst
+   :maxdepth: 1
+
+Other lighes of interest
+
+.. toctree::
    /jobs/donations.rst
    /jobs/examples.rst
    :maxdepth: 1
