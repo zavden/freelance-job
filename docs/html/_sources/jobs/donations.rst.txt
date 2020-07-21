@@ -16,8 +16,8 @@ If you have the capacity to help me, but  you don't know if it is worth it, here
 
 * 10 - Formulas transformations workflow.
 * 11 - `Long animation worflow <https://zavden.github.io/long-animation-workflow/docs/html/index.html>`_
-* 12 - New features of Manim and ManimCommunity.
-* 13 - PyCharm + Manim & JupyterNotebook + Manim.
+* 12 - PyCharm + Manim & JupyterNotebook + Manim.
+* 13 - New features of Manim and ManimCommunity.
 * 14 - How to convert class animations into Updaters.
 * 15 - Advanced construction of VMobjects and how to animate them.
 
