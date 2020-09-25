@@ -6,7 +6,7 @@ Examples
 The prices shown here are decided for a client who lives in US or in a country of the European Union, if you live in another part of the world the prices would be lower.
 
 
-60 USD 
+35 USD 
 """""""""
 
 Justification:
@@ -22,7 +22,7 @@ Justification:
     <hr/>
     <hr/>
 
-55 USD
+30 USD
 """"""""
 
 Justification:
@@ -39,9 +39,6 @@ Justification:
     <hr/>
 
 
-50 USD
-""""""""""
-
 Justification:
         Relatively advanced knowledge of Manim is required as the camera needs to be moved and the copying process for each "dragon".
 
@@ -55,8 +52,6 @@ Justification:
     <hr/>
     <hr/>
 
-45 USD
-""""""""""
 
 Justification:
         Many updaters, plus firm knowledge of Analytical Geometry.
@@ -71,7 +66,7 @@ Justification:
     <hr/>
     <hr/>
 
-40 USD
+25 USD
 """"""""""
 
 Justification:
@@ -87,10 +82,6 @@ Justification:
     <hr/>
     <hr/>
 
-
-
-35 USD
-""""""""""
 
 Justification:
         It is laborious to program the generic classes of the figures in such a way that it is easy to make the animations.
@@ -115,7 +106,7 @@ Justification:
     <hr/>
 
 
-30 USD
+25 USD
 """"""""""
 
 .. raw:: html
@@ -129,8 +120,6 @@ Justification:
     <hr/>
 
 
-25 USD
-""""""""""
 
 .. raw:: html
 
@@ -142,6 +131,8 @@ Justification:
     <hr/>
     <hr/>
 
+20 USD
+"""""""""
 
 .. raw:: html
 
@@ -152,7 +143,7 @@ Justification:
     <hr/>
 
 
-20 USD
+15 USD
 """"""""""
 
 .. raw:: html
@@ -164,6 +155,9 @@ Justification:
     </div>
     <hr/>
     <hr/>
+
+10 USD
+""""""""""
 
 .. raw:: html
 
