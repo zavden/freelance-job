@@ -10,7 +10,7 @@ Private tutorials can be developed in 3 different ways (prices are for the USA a
 Data to take into account:
 """""""""""""""""""""""""""
 
-* My time zone is GMT-5, here is a link to my time zone.
+* My time zone is GMT-5, `here <https://time.is/es/Mexico_City>`_ is a link to my time zone.
 * The price is negotiable depending on your country or economic situation.
 
 Contact
