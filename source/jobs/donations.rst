@@ -4,7 +4,6 @@ Donations
 Thanks to your donations the videos will come out faster.
 
 * `PayPal <https://www.paypal.me/zavdn>`_
-* Payoneer: **davz95@hotmail.com**
 * Bank transfer - You can request it by email: theoremofbeethoven@gmail.com
 
 If you want to appear in some of the videos as thanks, please send me an email or specify it in the PayPal message.

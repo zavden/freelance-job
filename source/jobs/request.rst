@@ -26,8 +26,8 @@ Animations on request
 3. :underbold:`Payment method:` If the agreed price is **less than 150 USD** (for the US and Europe, 100 USD for the rest of the world) then half will be paid in advance, if it costs more than that amount, it will only be paid the 3rd part, and half the work the second third part will be paid. All payments are made by PayPal or bank transfer.
 4. You have to send me the **details of the projects**, anything that helps clarify your ideas, some examples are:
 
-    * Sketches.
-    * Images that help the explanation.
+    * Sketches with indications of each animation.
+    * Images or videos similar to what you want.
     * Timelines. 
 
 5. I only do the visual part and I can add some music (I don't narrate). All the non-Manim software I need to use is opensource or freeware (inkscape, Krita, Gimp, Blender, etc).

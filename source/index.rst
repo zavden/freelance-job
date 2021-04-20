@@ -28,6 +28,4 @@ Useful links:
    :maxdepth: 1
 
 
-Payments are made via PayPal or bank transfer.
-
 
