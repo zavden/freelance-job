@@ -30,7 +30,7 @@ Animations on request
     * Images that help the explanation.
     * Timelines. 
 
-5. I only do the visual part (I don't narrate the videos or add music), and all the non-Manim software I need to use is opensource or freeware (inkscape, Krita, Gimp, Blender, etc).
+5. I only do the visual part and I can add some music (I don't narrate). All the non-Manim software I need to use is opensource or freeware (inkscape, Krita, Gimp, Blender, etc).
 6. The code of animations are yours and yours alone, I will deliver it to you in full when the last payment is made. If you **are not** interested in having the source code, the price decreases.
 7. Forms of contact: You can contact me in different ways.
 
@@ -45,8 +45,3 @@ When you contact me, please make sure that your message contains all the above p
     2) Urgency of the project.
     3) In case you have a budget limit please let me know.
     4) Let me know if you want me to not share your code.
-    5) If you work for a public educational institution, please let me know.
-
-.. tip:: If you can proof me that you work for some **public** educational institution, I will give you a considerable discount, but the delivery date of the projects should be more flexible.
-
-.. warning:: If I find out that you have lied to me about your geographical position or that you do not work for a public educational institution, I will cancel the project and I will not make any refund.

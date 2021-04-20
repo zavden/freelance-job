@@ -28,8 +28,6 @@ Useful links:
    :maxdepth: 1
 
 
-.. tip:: If you can proof me that you work for some **public** educational institution, I will give you a considerable discount, but the delivery date of the projects should be more flexible.
-
 Payments are made via PayPal or bank transfer.
 
 

@@ -1,19 +1,22 @@
 Private tutorials
 -------------------
 
-Given the technical limitations of my PC, I can only perform personalized tutorials in the following ways:
+Private tutorials can be developed in 3 different ways (prices are for the USA and European Union).
 
-1. You will have to make a list with all your doubts and send it to me, I will evaluate the complexity of your questions and I will estimate a price.
-2. If you want to learn how to make a specific animation, send it to me and I will estimate the price.
+1. Video-chat. The price is 40 USD for one hour, 70 USD for two hours, and 100 USD for 3 hours. If the hours are continuous the payment must be full in advance.
+2. Chat. The price is 25 USD per hour, 40 USD for two hours. Payment is full in advance.
+3. PDFs. This type of tutorials are used for very specific doubts, the price varies depending on the number of doubts.
 
-The payment method is the same as the animations on request, a part is paid in advance depending on the price.
+Data to take into account:
+"""""""""""""""""""""""""""
 
-At the moment I do not have the ability to video/audio chat due to the capabilities of my PC and my internet connection.
+* My time zone is GMT-5, here is a link to my time zone.
+* The price is negotiable depending on your country or economic situation.
 
-The way I teach is in two ways:
-    * Through a PDF + Private Videos / Discord chat (the cheapest).
-    * Through a Web page like this (but it is more expensive).
+Contact
+"""""""""""""""""""""""""""
 
-.. note:: To give you an idea of how much a private tutorial costs, I charged $ 60 for `this job <https://zavden.github.io/long-animation-workflow/docs/html/index.html>`_ where I teach the workflow of long animations.
-
-.. tip:: The tutorials **are yours and yours alone**, but if you give me permission to release the documents to share with the Manim community, then the price decreases.
+    1) Email: theoremofbeethoven@gmail.com / elteoremadebeethoven@gmail.com
+    2) Discord: **theoremofbeethoven#2781** (the best option for me)
+    3) Reddit: `u/TheoremofBeethoven <https://www.reddit.com/user/TheoremofBeethoven>`_
+    4) Twitter: `@ElteoremadeB <https://twitter.com/ElteoremadeB>`_ 
