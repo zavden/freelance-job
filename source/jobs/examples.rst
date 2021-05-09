@@ -6,18 +6,6 @@ Examples
 The prices shown here are decided for a client **who lives** in US or in a country of the European Union, if you live in another part of the world the prices would be lower.
 
 
-80 USD (Real project)
-""""""""""""""""""""""
-
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-    <video allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="../_static/RealProject.mp4" type="video/mp4">
-    </video>
-    </div>
-    <hr/>
-    <hr/>
 
 90 USD (Real project)
 """""""""""""""""""""""
