@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";import{A as _,E as a,T as o,W as r}from"./index.637ea388.js";const i={class:"text-center q-ma-md text-h4 divider line double-razor"},s=_({__name:"TitleView",props:["tab_title"],setup(e){return(n,c)=>(a(),o("h2",i,r(e.tab_title),1))}});var d=t(s,[["__scopeId","data-v-ef7679b4"]]);export{d as T};

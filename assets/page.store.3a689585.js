@@ -1,0 +1,1 @@
+import{M as a,N as s,r as u}from"./index.637ea388.js";const n=a("current-page",()=>{const t=s(),e=u("intro");t.push("/");const o=r=>{e.value=r,t.push(`/${r}`),localStorage.setItem("tab",e.value)};return localStorage.getItem("tab")&&o(localStorage.getItem("tab")||""),{moveTo:o,currentTab:e}});export{n as u};
